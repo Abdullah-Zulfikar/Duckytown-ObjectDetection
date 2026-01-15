@@ -6,6 +6,13 @@ A YOLOv8-based object detection system for identifying objects in the Duckietown
 
 This project uses YOLOv8 (You Only Look Once v8) to perform real-time object detection on Duckietown images. The model is trained to detect various objects present in the Duckietown simulator/environment.
 
+## 📁 Complete Project Resources
+
+All project files, datasets, and resources are available in this Google Drive folder:
+- 🔗 [Duckietown Object Detection - Google Drive](https://drive.google.com/file/d/1aQvDCaypCnjMeJwMKoAmnRTUvOzlXonz/view?usp=sharing)
+
+This includes the dataset, trained models, notebooks, and all other project files.
+
 ## Dataset
 
 The dataset is organized into three splits:
